@@ -1,3 +1,7 @@
+/*Ejercicio tipo ETS ó aplicaciones de estructuras de datos en donde debes encontrar el rectángulo más grande en un histograma usando 
+una pila*/
+/*Exercise of data structure application where you need to find the largest rectangle in a histogram using a stack*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
