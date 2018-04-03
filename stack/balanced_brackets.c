@@ -1,3 +1,8 @@
+/*Ejercicio de tipo ETS, o práctica "Mini compilador" en donde debes encontrar si todos los parentesis, corchetes y corchetes cuadrados 
+que estan abiertos se cierran usando una pila.*/
+/*Exercise of data structure application where you need to find if all the brackets opened are closed using a stack.*/
+
+
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
