@@ -79,7 +79,6 @@ void push(Pila *p,int num){
 void pop(Pila *p){
     Nodo *aux;
     if(pilaVacia(p)){
-
         printf("-->  La pila esta vacia! \n");
     }
     else{
@@ -100,12 +99,9 @@ void leerPila(Pila *p){
         temp=p->top;
         printf("-----------\n");
         printf("P I L A \n");
-        while(temp->sig!=NULL){
+        while(temp-){
             printf("-> %i,\n",temp->dato);
             temp=temp->sig;
-        }
-        if(temp->sig==NULL){
-            printf("-> %i,\n",temp->dato);
         }
     }
 }
