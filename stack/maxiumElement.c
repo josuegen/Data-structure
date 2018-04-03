@@ -27,7 +27,7 @@ int main() {
     Stack s;
     s.top=NULL;
     do{
-        system("cls");//remove this if using unix (linux,mac)
+        system("cls");//remove this if using unix (linux,mac OS, etc)
         system("clear");//remove this if using windows
         printf("---- WELCOME ----\n\n");
         printf("1.Push a number\n");
